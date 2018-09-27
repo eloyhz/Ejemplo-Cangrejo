@@ -1,7 +1,9 @@
 #Greenfoot properties
-#Thu Sep 27 10:21:29 CDT 2018
+#Thu Sep 27 10:50:02 CDT 2018
 mainWindow.width=850
 class.Crab.superclass=greenfoot.Actor
+class.Worm.image=worm.png
+class.Worm.superclass=greenfoot.Actor
 class.CrabWorld.superclass=greenfoot.World
 project.charset=UTF-8
 version=3.0.0
@@ -9,5 +11,5 @@ class.Crab.image=crab.png
 world.lastInstantiated=CrabWorld
 mainWindow.y=40
 mainWindow.x=40
-class.CrabWorld.image=sand.jpg
 mainWindow.height=600
+class.CrabWorld.image=sand.jpg
